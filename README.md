@@ -29,7 +29,7 @@
 <p align="center">
 </p>
 
-- IDE & UI Testing
+- IDE & Tools
 <p align="center">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
@@ -37,15 +37,15 @@
 </p>
 
 ## Server
-<img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+- <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 
-<img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+- <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <p align="center">
     <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/node.svg" alt="node" style="vertical-align:top; margin:4px">
     <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/deno.svg" alt="deno" style="vertical-align:top; margin:4px">
 </p>
 
-<img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+- <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
 <p align="center">
     <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/spring.svg" alt="spring" style="vertical-align:top; margin:4px">
 </p>
