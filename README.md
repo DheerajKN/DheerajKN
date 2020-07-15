@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 This is K. N. Dheeraj
 
 - 🔭 I’m currently working as **Software Developer @NEC Technologies**
 - 🌱 I’m currently learning **Python - Machine Learning**
@@ -12,7 +10,6 @@ Here are some ideas to get you started:
 [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kndheeraj/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/k-n-dheeraj-878315106/)
 
-[Twitter](https://twitter.com/itsKNDheeraj), [Instagram](https://www.instagram.com/kndheeraj/), [LinkedIn](https://www.linkedin.com/in/k-n-dheeraj-878315106/)
 - ⚡ Fun fact: I'm a quick and consistent learner, if the technology or framework is interesting!! 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=DheerajKN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/DheerajKN/github-readme-stats)
