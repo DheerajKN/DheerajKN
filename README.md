@@ -20,26 +20,47 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 ## Web
 <p align="center">
-  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+</p>
+
+- Styling
+<p align="center">
+</p>
+
+- IDE & UI Testing
+<p align="center">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>
 
 ## Server
+<img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+
+<img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <p align="center">
-  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
     <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/node.svg" alt="node" style="vertical-align:top; margin:4px">
     <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/deno.svg" alt="deno" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+</p>
+
+<img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+<p align="center">
     <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/spring.svg" alt="spring" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+</p>
+
+- Databases 
+<p align="center">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/services/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/services/mongo.svg" alt="mongo" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/services/postgresql.svg" alt="postgresql" style="vertical-align:top; margin:4px">
+</p>
+
+- IDE & Cloud Services
+<p align="center">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
 </p>
