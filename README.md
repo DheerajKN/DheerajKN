@@ -27,6 +27,8 @@
 
 - Styling
 <p align="center">
+    <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/less.svg" alt="less" style="vertical-align:top; margin:4px">
 </p>
 
 - IDE & Tools
@@ -38,6 +40,10 @@
 
 ## Server
 - <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<p align="center">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/flask.svg" alt="flask" style="vertical-align:top; margin:4px">
+</p>
 
 - <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <p align="center">
@@ -69,6 +75,11 @@
 <p align="center">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/tools/jupyter_notebook.svg" alt="jupyter_notebook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/numpy.svg" alt="numpy" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/matplotlib.svg" alt="matplotlib" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/seaborn.svg" alt="seaborn" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/scikit-learn.svg" alt="scikit-learn" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/DheerajKN/ColoredBadges/blob/master/svg/dev/frameworks/pandas.svg" alt="pandas" style="vertical-align:top; margin:4px">
 </p>
 
 ***********************************
