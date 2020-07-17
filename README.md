@@ -1,4 +1,8 @@
-### Hi there 👋 This is K. N. Dheeraj
+## Hi there 👋 This is K. N. Dheeraj
+
+### A FullStack Developer, An Open Source Contributor & A Quick Learner.
+
+<!-- <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/> -->
 
 - 🔭 I’m currently working as **Software Developer @NEC Technologies**
 - 🌱 I’m currently learning **Python - Machine Learning**
@@ -6,9 +10,9 @@
 - 🤔 I’m looking for help with CSS and Code Optimizations for my code-generator projects
 - 💬 Ask me about **Backend Development in Java, Javascript, Python, Go**, React, Vue, GraphQL, AWS, Azure, Relational and NoSQL Databases
 - 📫 How to reach me:&nbsp;&nbsp;
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/itsKNDheeraj)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kndheeraj/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/k-n-dheeraj-878315106/)
+[<img alt="Twitter" width="3%" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/itsKNDheeraj)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Instagram" width="3%" src="https://img.icons8.com/color/48/000000/instagram.png" />](https://www.instagram.com/kndheeraj/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="LinkedIn" width="3%" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/k-n-dheeraj-878315106/)
 
 - ⚡ Fun fact: I'm a quick and consistent learner, if the technology or framework is interesting!! 
 
