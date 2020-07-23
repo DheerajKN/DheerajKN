@@ -16,7 +16,13 @@
 
 - ⚡ Fun fact: I'm a quick and consistent learner, if the technology or framework is interesting!! 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=DheerajKN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/DheerajKN/github-readme-stats)
+<a href="https://github.com/DheerajKN/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajKN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My Github Stats"/>
+</a>
+<a href="https://github.com/DheerajKN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKN&theme=dark&hide_langs_below=1" />
+</a>
+
 
 *************
 ### - Languages and Tools I tend to Use
@@ -87,4 +93,18 @@
 </p>
 
 ***********************************
+
+## Most Admired Repos
+<a href="https://github.com/DheerajKN/Spring-Test-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DheerajKN&repo=Spring-Test-Generator&theme=dark" />
+</a>
+<a href="https://github.com/DheerajKN/JS-FullStack-Generator">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DheerajKN&repo=JS-FullStack-Generator&theme=dark" />
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
  
