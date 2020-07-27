@@ -20,7 +20,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajKN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My Github Stats"/>
 </a>
 <a href="https://github.com/DheerajKN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKN&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKN&theme=dark&hide_langs_below=1&layout=compact" />
 </a>
 
 
