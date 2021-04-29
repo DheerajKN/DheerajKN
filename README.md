@@ -4,17 +4,17 @@
 
 <!-- <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/> -->
 
-- 🔭 I’m currently working as **Software Developer @NEC Technologies**
-- 🌱 I’m currently learning **Python - Machine Learning**
-- 👯 I’m looking to collaborate on some interesting open-source projects that more related to boilerplate or code-generation
-- 🤔 I’m looking for help with CSS and Code Optimizations for my code-generator projects
-- 💬 Ask me about **Backend Development in Java, Javascript, Python, Go**, React, Vue, GraphQL, AWS, Azure, Relational and NoSQL Databases
+- 🔭 I’m currently working as **Masters of Science, Computer Science - Data Analytics @National University of Ireland, Galway**
+- 🌱 I’m currently learning **Python - Machine Learning, Deep Learning, NLP**
+- 👯 I’m looking to collaborate on some interesting open-source projects that more related to machine learning, computer vision, AI etc.
+- 🤔 I’m looking to grow my professional skills as a Data Scientist, Data Analyst or Data Engineer.
+- 💬 Ask me about **Backend Development in Java, Javascript, Python, Go, Rust**, React, Vue, GraphQL, AWS, Azure, Relational and NoSQL Databases
 - 📫 How to reach me:&nbsp;&nbsp;
 [<img alt="Twitter" width="3%" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/itsKNDheeraj)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Instagram" width="3%" src="https://img.icons8.com/color/48/000000/instagram.png" />](https://www.instagram.com/kndheeraj/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="LinkedIn" width="3%" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/k-n-dheeraj-878315106/)
 
-- ⚡ Fun fact: I'm a quick and consistent learner, if the technology or framework is interesting!! 
+- ⚡ Fun fact: I'm a quick and consistent learner, dedicated contributor and always available!! 
 
 <a href="https://github.com/DheerajKN/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajKN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My Github Stats"/>
