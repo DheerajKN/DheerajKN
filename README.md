@@ -1,6 +1,6 @@
 ## Hi there 👋 This is K. N. Dheeraj
 
-### A FullStack Developer, Aspirant Data Scientist An Open Source Contributor & A Quick Learner.
+### A FullStack Developer, Aspirant Data Scientist, An Open Source Contributor & A Quick Learner.
 
 <!-- <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/> -->
 
