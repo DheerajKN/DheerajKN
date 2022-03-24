@@ -4,11 +4,11 @@
 
 <!-- <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/> -->
 
-- 🔭 I’m currently working as **Masters of Science, Computer Science - Data Analytics @National University of Ireland, Galway**
-- 🌱 I’m currently learning **Python - Machine Learning, Deep Learning, NLP**
-- 👯 I’m looking to collaborate on some interesting open-source projects that more related to machine learning, computer vision, AI etc.
+- 🔭 I’m currently working as **Cloud Software Engineer @Cisco, Galway**
+- 🌱 I’m currently learning **Python - Machine Learning, Deep Learning, Flutter**
+- 👯 I’m looking to collaborate on some interesting open-source projects that more related to fullstack development, machine learning, computer vision, AI etc.
 - 🤔 I’m looking to grow my professional skills as a Data Scientist, Data Analyst or Data Engineer.
-- 💬 Ask me about **Backend Development in Java, Javascript, Python, Go, Rust**, React, Vue, GraphQL, AWS, Azure, Relational and NoSQL Databases
+- 💬 Ask me about **Backend Development in Java, Javascript, Python, Go, Rust**, React, Vue, AWS, Relational and NoSQL Databases
 - 📫 How to reach me:&nbsp;&nbsp;
 [<img alt="Twitter" width="3%" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/itsKNDheeraj)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Instagram" width="3%" src="https://img.icons8.com/color/48/000000/instagram.png" />](https://www.instagram.com/kndheeraj/)&nbsp;&nbsp;&nbsp;&nbsp;
